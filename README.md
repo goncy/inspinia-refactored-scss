@@ -1,6 +1,4 @@
 # inspinia-refactored-scss
-Inspinia refactored scss
-
 Inspinia theme SCSS refactored
 
 ```
