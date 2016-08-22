@@ -36,13 +36,13 @@
   cursor: pointer;
 }
 
-.skin-setttings {
+.skin-settings {
   width: 220px;
   margin-left: 40px;
   background: $gray;
 }
 
-.skin-setttings .title {
+.skin-settings .title {
   background: #efefef;
   text-align: center;
   text-transform: uppercase;
@@ -52,15 +52,15 @@
   font-size: 12px;
 }
 
-.setings-item {
+.settings-item {
   padding: 10px 30px;
 }
 
-.setings-item.skin {
+.settings-item.skin {
   text-align: center;
 }
 
-.setings-item .switch {
+.settings-item .switch {
   float: right;
 }
 
@@ -68,7 +68,7 @@
   text-transform: uppercase;
 }
 
-.setings-item a {
+.settings-item a {
   color: #fff;
 }
 
