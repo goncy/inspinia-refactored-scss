@@ -1,0 +1,15 @@
+{
+  "name": "inspinia-refactored",
+  "version": "1.0.0",
+  "description": "INSPINIA Theme refactored",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node-sass src/style.scss dist/style.css"
+  },
+  "author": "Gonzalo Pozzo",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^3.8.0"
+  }
+}
